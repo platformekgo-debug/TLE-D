@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "https://github.com/platformekgo-debug/TLE-D/releases/download/v1.1/Terminale-D-Cours-et-Sujets.apk",
+  "taille": 126472077,
+  "sha256": "ded789770d1174719e34b4d040bde308200709d29cb4e5ee0712e2bc89762050",
+  "notes": "Esther, tuteur par leçon, index des cours et mise à jour automatique",
+  "obligatoire": false
+}
