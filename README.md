@@ -9,9 +9,10 @@ connexion. L'application ne contient aucune publicité et n'envoie aucune donné
 
 - **Esther**, l'assistante : elle a lu les 298 documents et s'appuie sur les passages
   retrouvés dans les cours pour répondre, avec les formules composées en LaTeX.
-- **Le tuteur** : pour chaque leçon d'un cours, l'explication, puis cinq exercices
-  progressifs, puis le corrigé détaillé.
-- **Sommaire cliquable** à l'intérieur des documents.
+- **Le tuteur, page par page** : vous ouvrez un cours, vous allez à la page qui vous
+  intéresse, vous ouvrez Esther — elle travaille alors sur *cette page*, à votre demande.
+  Trois boutons : expliquer la page, donner des exercices sur la page, puis le corrigé.
+- **Sommaire cliquable** à l'intérieur des documents, pour aller droit à une leçon.
 - **Recherche** dans tout le corpus, et reconnaissance de texte sur les documents numérisés.
 - **Mise à jour automatique** : l'application prévient quand une version plus récente
   existe, et ne télécharge jamais rien sans votre accord.
